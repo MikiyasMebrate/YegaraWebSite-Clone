@@ -1,0 +1,23 @@
+
+.text-decoration{
+    text-decoration: none;
+}
+
+.bg-img{
+    background-image: url(image/body-img.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    background-position-y:0;
+}
+.pb-6{
+    padding-bottom: 150px;
+}
+
+.rounded-4{
+    border-radius: 10px;
+}
+
+.btn-linkc:hover{
+      color:aqua;
+}
